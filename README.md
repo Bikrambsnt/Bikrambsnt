@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js,Node.Js,Tailwind,MongoDB,Express.js<br><br>👨‍💻 All of my projects are available at github.com/Bikrambsnt/<br><br>👨‍💻 Check out my portfolio at https://mineportfoliosite.netlify.app/<br><br>💬 Ask me about javaScript,Css,Tailwind,Git & GitHub,React.js,Node.js,Mongo Db,HTML .<br><br>📫 How to reach me bikrambasnett7@gmail.com<br><br>⚡ Fun fact I don't like coffee.
+🌱 I’m currently learning React.js,Node.Js,Tailwind,MongoDB,Express.js<br><br>👨‍💻 All of my projects are available at github.com/Bikrambsnt/<br><br>👨‍💻 Check out my portfolio at https://mineportfoliosite.netlify.app/<br><br>💬 Ask me about javaScript,Css,Tailwindcss,Git, GitHub,React.js,Node.js,Mongo Db,HTML .<br><br>📫 How to reach me bikrambasnett7@gmail.com<br><br>⚡ Fun fact I don't like coffee.
 
 
 ## 🌐 Socials:
